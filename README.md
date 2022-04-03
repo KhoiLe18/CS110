@@ -2,7 +2,7 @@ This is a project I did for an assignment in the class CS110.
 
 The assignment required me to create a program that allows the user to create a list of 9 companies.
 The program needs to be able to:
-	1. Add a record.
+	1. Add a record./n
 	2. Search for a record.
 	3. Sort the list of companies alphabetically.
 	4. Delete a record.
