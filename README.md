@@ -2,7 +2,6 @@ This is a project I did for an assignment in the class CS110.
 
 The assignment required me to create a program that allows the user to create a list of 9 companies.
 The program needs to be able to:
-
   1. Add a record.
   2. Search for a record.
   3. Sort the list of companies alphabetically.
@@ -11,3 +10,8 @@ The program needs to be able to:
   6. Save the list to a file.
   7. Read the list from a file (the file name must be "company_list.txt").
   8. Display the list in the terminal.
+
+Skills & knowledge learned:
+  1. How to use basic functions in a program.
+  2. Basic file I/O.
+  3. Working on a list with a pre-determined length.
